@@ -2,8 +2,8 @@
 Code, documentation, and schematics for Digital Projects for Musicians
 
 	APPLICATIONS
-Universal Transmitter
-Channel Message Transmitter
+#Universal Transmitter
+#Channel Message Transmitter
 Programmable Controllers
 Custom Instrument
 Tap Tempo Transmitter
